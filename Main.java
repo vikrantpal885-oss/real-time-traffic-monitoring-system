@@ -1,3 +1,4 @@
+//CI trigger test
 import java.util.*;
 
 // Edge class
